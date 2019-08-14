@@ -1,5 +1,4 @@
 **데이터베이스 생성  
-
 CREATE DATABASE 데이타베이스_이름 DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 **데이터베이스 수정  
 
