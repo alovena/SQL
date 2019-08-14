@@ -19,7 +19,7 @@
 - ( + Inner Join)
 
 <blockquote>
-  I tried to use Inner join first time,  
+  I tried to use Inner join first time,</br>
   It extracts data with the same column values  
   <h5>(In my case buycomment.idx == buylist.id)</h5>
 </blockquote>
