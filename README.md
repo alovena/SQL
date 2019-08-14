@@ -19,8 +19,8 @@
 - ( + Inner Join)
 
 <blockquote>
-  I tried to use Inner join first time,
-  It extracts data with the same column values
+  I tried to use Inner join first time,  
+  It extracts data with the same column values  
   <h5>(In my case buycomment.idx == buylist.id)</h5>
 </blockquote>
 *Query : select * bcl.idx,bcl.userID,bcl.comment,bl.id
